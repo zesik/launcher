@@ -1,0 +1,4 @@
+My Ubuntu
+ssh -i ~/keys/key.pem ubuntu@192.168.2.15
+My Raspberry Pi
+ssh -i ~/keys/pi.pem ubuntu@192.168.2.23
